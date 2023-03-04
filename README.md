@@ -8,4 +8,5 @@
 - I'm currently seeking a new opportunity as an Angular developer where I can continue to grow my skills and make meaningful contributions to innovative projects. Please feel free to contact me if you have any opportunities that might be a good fit for my skills and experience.
 
 - 📫 To reach me you can mail me on vaibhav123dhole@gmail.com or send me a message on my linkedin profile www.linkedin.com/in/vaibhavdhole98.
-Thank you for your time and consideration.
+
+- Thank you for your time and consideration.
