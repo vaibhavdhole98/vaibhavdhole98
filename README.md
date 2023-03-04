@@ -1,4 +1,11 @@
-- 👋 Hi, I’m Vaibhav Dhole, I’m actively looking for job as Front End Developer/ React Developer.
-- I have made some projects in ReactJS which you can find below.
-- 📫 To reach me you can mail me on vaibhav123dhole@gmail.com or send me a message on linkedin profile www.linkedin.com/in/vaibhavdhole98 .
+- Hi, I'm Vaibhav, an experienced Angular developer with more than one year of professional experience in building web applications using the Angular framework.
 
+- In my current role, I have developed and maintained complex web applications using Angular and AngularJS, with a strong focus on modular and reusable code. I have also worked on integrating APIs and implementing responsive designs using Bootstrap.
+- I have a solid understanding of TypeScript and I am proficient in HTML5, CSS3, JavaScript, JQuery, Restful API, Ajax, and Debugging.
+ 
+- As a quick learner, I'm always looking to expand my knowledge and skills. I'm passionate about developing high-quality software and collaborating with other developers, designers, and stakeholders to achieve that goal.
+
+- I'm currently seeking a new opportunity as an Angular developer where I can continue to grow my skills and make meaningful contributions to innovative projects. Please feel free to contact me if you have any opportunities that might be a good fit for my skills and experience.
+
+- 📫 To reach me you can mail me on vaibhav123dhole@gmail.com or send me a message on linkedin profile www.linkedin.com/in/vaibhavdhole98.
+Thank you for your time and consideration.
