@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Vaibhav, an experienced Full Stack Developer with more than 3 year of professional experience in building web applications using the Angular framework.
+Hi, I'm Vaibhav, an experienced Full Stack Developer with 3+ years of experience building responsive web applications. Migrated projects from
+Angular 10v to 18v, enhancing performance and standards. Built a full-stack app with Angular, Node.js, and MongoDB.
 
 
 ## 🌐 Socials:
