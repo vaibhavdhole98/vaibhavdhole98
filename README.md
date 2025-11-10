@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m Vaibhav Dhole, a passionate and performance-driven Full Stack Developer based in Nagpur, India, with over more than 4 years of experience building scalable, modern web applications using Angular, Node.js, Express.js, and MongoDB.
+💻 I’m Vaibhav Dhole, a passionate and performance-driven Full Stack Developer based in Nagpur, India, with over more than 4 years and 4 months of experience building scalable, modern web applications using Angular, Node.js, Express.js, and MongoDB.
 
 At Com1 Communication Technologies Pvt. Ltd., I led the migration of a large Angular v10 app to v18, significantly improving performance, maintainability, and aligning the platform with modern web standards.
 
